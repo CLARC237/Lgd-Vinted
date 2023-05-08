@@ -1,0 +1,5 @@
+{
+    "token": "token de ton bot",
+    "adminIDs": ["votre id"],
+    "guildID": "l'id de votre serveur"
+}
